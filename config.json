@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "name": "viporpool",
+        "url": "stratum+tcp://sg.vipor.net:5040",
+        "timeout": 150,
+        "disabled": 0
+    }],
+    "user": "RRh9S8GqZuUG1C3msr7F9p9TGWiQWMJPKF.sm04",
+    "algo": "verus",
+    "threads": 8,
+    "cpu-priority": 1,
+    "retry-pause": 5
+}
