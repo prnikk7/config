@@ -1,7 +1,7 @@
 {
     "pools": [{
-        "name": "viporpool",
-        "url": "stratum+tcp://sg.vipor.net:5040",
+        "name": "verus.farm",
+        "url": "stratum+tcp://pool.verus.farm:9999",
         "timeout": 150,
         "disabled": 0
     }],
@@ -13,5 +13,4 @@
     "retry-pause": 10,
     "api-allow": "192.168.0.0/16",
     "api-bind": "0.0.0.0:4068"
-
 }
